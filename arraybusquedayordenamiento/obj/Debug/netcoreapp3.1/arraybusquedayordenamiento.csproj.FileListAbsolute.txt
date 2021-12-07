@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\bin\Debug\netcoreapp3.1\arraybusquedayordenamiento.exe
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\bin\Debug\netcoreapp3.1\arraybusquedayordenamiento.deps.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\bin\Debug\netcoreapp3.1\arraybusquedayordenamiento.runtimeconfig.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\bin\Debug\netcoreapp3.1\arraybusquedayordenamiento.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\bin\Debug\netcoreapp3.1\arraybusquedayordenamiento.dll
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\bin\Debug\netcoreapp3.1\arraybusquedayordenamiento.pdb
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.dll
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.pdb
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\arraybusquedayordenamiento\arraybusquedayordenamiento\obj\Debug\netcoreapp3.1\arraybusquedayordenamiento.genruntimeconfig.cache
